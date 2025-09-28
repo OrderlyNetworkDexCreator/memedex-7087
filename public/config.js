@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/NoodlesNetworks",
   "VITE_SEO_SITE_NAME": "Noodles Network Dex",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.noodles.network",
+  "VITE_SEO_SITE_URL": "https://dex.noodlesnetwork.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@noodlesnetworks",
