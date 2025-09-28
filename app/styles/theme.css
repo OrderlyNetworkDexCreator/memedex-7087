@@ -1,6 +1,6 @@
 :root {
   --oui-font-family: 'Open Sans', sans-serif;
-  --oui-font-size-base: 14px;
+  --oui-font-size-base: 15px;
 
   /* colors */
   --oui-color-primary: 57 158 232;
@@ -96,5 +96,5 @@
 
 html, body {
   font-family: 'Open Sans', sans-serif !important;
-  font-size: 14px !important;
+  font-size: 15px !important;
 }
