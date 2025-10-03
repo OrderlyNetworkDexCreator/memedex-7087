@@ -6,7 +6,7 @@
   --oui-color-primary: 57 158 232;
   --oui-color-primary-light: 57 158 232;
   --oui-color-primary-darken: 57 158 232;
-  --oui-color-primary-contrast: 7 228 22;
+  --oui-color-primary-contrast: 255 255 255;
 
   --oui-color-link: 57 158 232;
   --oui-color-link-light: 47 158 232;
@@ -45,7 +45,7 @@
   --oui-color-base-10: 230 230 230;
 
   --oui-color-base-foreground: 255 255 255;
-  --oui-color-line: 31 24 73;
+  --oui-color-line: 255 255 255;
 
   --oui-color-trading-loss: 245 97 139;
   --oui-color-trading-loss-contrast: 255 255 255;
