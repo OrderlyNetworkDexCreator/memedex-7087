@@ -42,10 +42,10 @@
   --oui-color-base-7: 198 39 101;
   --oui-color-base-8: 29 26 38;
   --oui-color-base-9: 31 24 73;
-  --oui-color-base-10: 57 128 232;
+  --oui-color-base-10: 230 230 230;
 
   --oui-color-base-foreground: 255 255 255;
-  --oui-color-line: 255 255 255;
+  --oui-color-line: 31 24 73;
 
   --oui-color-trading-loss: 245 97 139;
   --oui-color-trading-loss-contrast: 255 255 255;
